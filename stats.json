@@ -1,0 +1,10 @@
+{
+  "0x77826C01303Bed9DE74d275dEA1179ed36D7455F": {
+    "name": "UniV3: WETH-USDC",
+    "rewardAPR": 23.5
+  },
+  "0x677285525032F9F484F742d35bC51B62b0370284": {
+    "name": "UniV3: ARB-USDC",
+    "rewardAPR": 68.9
+  }
+}
